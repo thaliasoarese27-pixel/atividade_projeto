@@ -1,0 +1,3 @@
+Requisitos iniciais do projeto:
+- Controle de versão
+- Colaboração entre membros do time
